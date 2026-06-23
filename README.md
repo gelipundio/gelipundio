@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.fnevarez.com/fnevarez%20profile.png" alt="Felipe Nevarez" width="132" />
-</p>
-
 # Felipe Nevarez
 
 **Software Engineer | Technical Lead | Software Architect | Engineering Manager**
@@ -22,7 +18,6 @@ I'm a senior software engineer and technical leader based in Guadalajara, Mexico
 
 - Led development of **DealPrint**, an AI-native due diligence platform for M&A transactions, virtual data rooms, document intelligence, risk identification, and action item automation.
 - Led product development and architecture for **Xilos AI**, a security-focused AI platform aimed at preventing misuse of LLM technologies.
-- Designed microservice architecture for **Central Hub**, supporting 1M+ monthly transactions.
 - Reduced production incidents by about 40% on **RealKey** through architecture improvements, engineering standards, and technical debt reduction.
 - Co-founded **Virgilio**, built and managed a 7-person engineering team, designed the AWS architecture, and created a proprietary candidate-to-job matching engine.
 - Led teams in healthcare and genomics environments at **Foundation Medicine**, including HIPAA-compliant applications and a React Native app used by about 2,000 users.
